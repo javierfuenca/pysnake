@@ -1,2 +1,2 @@
 # pysnake
-Snake game suing pygame library
+Snake game suing pygame library (subject to errors)
